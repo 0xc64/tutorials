@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+scroll4x4/resources/scrollerchars.raw
+*.prg
+scroll4x4/build/scroller_4x4_build.log
+scroll4x4/build/scroller_4x4_settings.lua
+scroll4x4/resources/scrollerchars.asm
