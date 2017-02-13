@@ -212,7 +212,7 @@ calc_scrollchar_src_low and #031                        ; calculate offset into 
 
 render_next_scroll_colm clc
                         lda REG_ZERO_FE                 ; reset the hardware scroll value
-                        adc #007
+                        adc #008
                         tax
                         stx scroller_amount + 1         ; save hardware scroll index
 
